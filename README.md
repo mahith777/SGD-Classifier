@@ -7,11 +7,12 @@ To write a program to predict the type of species of the Iris flower using the S
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1- Split the data into training and testing sets so the model can learn from one portion and be evaluated on another.
-2- Train the classifier using Stochastic Gradient Descent, which updates weights step by step with each sample.
-3- Predict outcomes on the test set using the trained model.
-4- Evaluate performance by calculating accuracy and examining the confusion matrix to see correct vs. incorrect classifications
-
+```
+1. Split the data into training and testing sets so the model can learn from one portion and be evaluated on another.
+2. Train the classifier using Stochastic Gradient Descent, which updates weights step by step with each sample.
+3. Predict outcomes on the test set using the trained model.
+4. Evaluate performance by calculating accuracy and examining the confusion matrix to see correct vs. incorrect classifications
+```
 
 ## Program:
 ```
